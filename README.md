@@ -1,2 +1,2 @@
-# Release_test
+# New title
 Repository release test
